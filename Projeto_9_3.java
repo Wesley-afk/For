@@ -8,7 +8,7 @@ package com.mycompany.projeto_9_2;
  *
  * @author wpass
  */
- import java.util.Random;
+import java.util.Random;
 
 public class Projeto_9_2 {  
     public static void main(String[] args) {
@@ -87,7 +87,7 @@ public class Projeto_9_2 {
           } 
         }
         
-         System.out.println(" Segunda interseção \n \n \n ");
+         System.out.println(" \n \n \n \n \n \n Segunda interseção"); //segunda interseção
          
          for(int c = 0; c <= 600; c++){
             Random sorteio = new Random();
@@ -129,7 +129,7 @@ public class Projeto_9_2 {
           } 
         }
          
-         System.out.println("Terceira interseção \n \n \n");
+         System.out.println("\n \n \n \n \n \n Terceira interseção"); //terceira interseção
          
          for(int c = 0; c <= 600; c++){
             Random sorteio = new Random();
